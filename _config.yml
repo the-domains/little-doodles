@@ -1,0 +1,28 @@
+name: little doodles
+favicon: null
+layout_spectrum: 0.2337637071032077
+typography_spectrum: 0.5694057797081769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6560555738396943
+  lightness: 0.19030074682086706
+  saturation: 0.39519681804813445
+  rhythmicContrast: 0.3120244247838855
+purpose: []
