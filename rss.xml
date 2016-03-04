@@ -4,21 +4,21 @@
         <description><![CDATA[Little Doodles]]></description>
         <link>https://thegrid.ai/little-doodles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 22:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 22:07:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/little-doodles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A lot of little things add up]]></title>
+            <description><![CDATA[<article><h1>A lot of little things add up</h1><h2>A 3x3 inch canvas perfect for creating a tiny image without a lot of time. </h2><p>Each doodle isn't much by itself but over time each little square becomes a part of something bigger. Several times a week I try to create an addition to the collection. </p></article>]]></description>
+            <link>https://thegrid.ai/little-doodles/a-lot-of-little-things-add-up/index.html</link>
+            <guid isPermaLink="false">7db64745-e58c-4a50-bb2c-0f1ac998728f</guid>
+            <pubDate>Fri, 04 Mar 2016 22:06:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a810dd46-ae1c-4865-bb26-1be8effc408b.jpg">]]></description>
             <link>https://thegrid.ai/little-doodles/f449be23-ab1e-4782-9bb3-81a33ff3b68b/index.html</link>
             <guid isPermaLink="false">f449be23-ab1e-4782-9bb3-81a33ff3b68b</guid>
             <pubDate>Fri, 04 Mar 2016 22:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A lot of little things add up]]></title>
-            <description><![CDATA[<article><h1>A lot of little things add up</h1><h2>A 3x3 inch canvas perfect for creating a tiny image without a lot of time. </h2><p>Each doodle isn't much by itself but over time each little square becomes a part of something bigger. Several times a week I try to create an addition to the collection. </p></article>]]></description>
-            <link>https://thegrid.ai/little-doodles/a-lot-of-little-things-add-up/index.html</link>
-            <guid isPermaLink="false">7db64745-e58c-4a50-bb2c-0f1ac998728f</guid>
-            <pubDate>Fri, 04 Mar 2016 22:00:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
