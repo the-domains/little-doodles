@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[little doodles]]></title>
+        <description><![CDATA[little doodles]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 22:00:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A lot of little things add up]]></title>
+            <description><![CDATA[<article><h1>A lot of little things add up</h1><h2>A 3x3 inch canvas perfect for creating a tiny image without a lot of time. </h2><p>Each doodle isn't much by itself but over time each little square becomes a part of something bigger. Several times a week I try to create an addition to the collection. </p></article>]]></description>
+            <link>undefineda-lot-of-little-things-add-up/index.html</link>
+            <guid isPermaLink="false">7db64745-e58c-4a50-bb2c-0f1ac998728f</guid>
+            <pubDate>Fri, 04 Mar 2016 22:00:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
