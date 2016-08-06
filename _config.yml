@@ -17,11 +17,11 @@ color:
   brandStrength: 0.6560555738396943
   lightness: 0.6516291
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FFFFFF'
+    - '#000000'
+    - '#393727'
+    - '#827E5B'
+    - '#CAC486'
   rhythmicContrast: 0.5
 cta:
   bucket: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: little doodles
 favicon: null
+name: little doodles
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5694057797081769
-layout_spectrum: 0.2337637071032077
+layout_spectrum: 0.6566416
