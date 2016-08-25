@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.3095238
-  brandStrength: 0.6560555738396943
+  brandStrength: 0
   lightness: 0.3007519
   brandColors:
     - '#352526'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: little doodles
 favicon: null
+name: little doodles
 opengraph:
   image: null
   type: null
