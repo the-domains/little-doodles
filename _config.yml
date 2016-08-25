@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5625
+  saturation: 0.3095238
   brandStrength: 0.6560555738396943
-  lightness: 0.6516291
+  lightness: 0.3007519
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#393727'
     - '#827E5B'
     - '#CAC486'
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.3120301
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: little doodles
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5694057797081769
+typography_spectrum: 0.8013784
 layout_spectrum: 0.6566416
